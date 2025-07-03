@@ -103,8 +103,9 @@ Setelah pengguna menambahkan, mengedit, atau menghapus catatan/tag, tampilan UI 
 ---
 
 ## 🙌 Acknowledgements
-- Font Awesome
+- IBM Granite
 - OpenAI ChatGPT
+- Font Awesome
 - W3Schools, MDN Docs
 
 ---
