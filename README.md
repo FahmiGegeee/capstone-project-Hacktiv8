@@ -68,12 +68,20 @@ Dalam proses pengembangan proyek ini, AI digunakan secara efektif untuk:
 - **Membantu debug dan mengoptimalkan fungsionalitas JavaScript**, seperti dropdown interaktif, localStorage handling, dan modal interaksi.
 - **Menghasilkan solusi desain UX/UI**, seperti _dark mode switch_ dengan ikon dinamis dan sidebar yang tidak dapat di-scroll kecuali daftar tag.
 
-### AI yang digunakan:
-- **ChatGPT by OpenAI** digunakan sebagai asisten pengembangan secara menyeluruh.
-  - Membantu mengidentifikasi logika interaksi dan pengelolaan data.
-  - Memberikan _code snippet_ dan rekomendasi styling yang sesuai dengan best practice.
+### ✅ AI yang digunakan: 
+**1. IBM Granite**
+   - Memberikan rekomendasi struktur dan arsitektur antarmuka menggunakan pendekatan desain berbasis AI.
+   - Membantu merancang interaksi pengguna seperti pengelolaan modal, toggle dark mode, dan filter tag otomatis.
+   - Digunakan untuk menyusun dokumentasi teknis dan membantu merumuskan alur logika CRUD.
+   - Meningkatkan efisiensi debugging dan optimalisasi kode selama pengembangan.
 
-> *Catatan: Dalam skenario ideal, AI IBM Granite dapat digunakan untuk integrasi lebih lanjut seperti pengenalan suara, pengenalan tulisan tangan untuk pencatatan, atau natural language search. Namun, dalam proyek ini, ChatGPT telah memberikan dukungan optimal dalam semua aspek pengembangan frontend.*
+**2. ChatGPT by OpenAI** 
+   - Digunakan sebagai AI pendukung untuk memaksimalkan hasil pengembangan.
+   - Mendukung perumusan logika interaksi dan struktur pengelolaan data.
+   - Memberikan _code snippet_, inspirasi desain UI/UX, serta membantu debugging.
+   - Digunakan untuk mempercepat proses dokumentasi dan validasi fitur aplikasi secara efisien.
+
+> *Catatan: Dalam proyek ini, IBM Granite digunakan sebagai fondasi utama dalam penerapan AI, terutama untuk perencanaan fitur-fitur berbasis AI seperti pengklasifikasian catatan, Search by (Title, Tag, and Content), Sort by, dll. Sementara itu, ChatGPT by OpenAI dimanfaatkan sebagai pendamping pengembangan untuk membantu menyusun dokumentasi, memberikan saran teknis, serta mempercepat proses debugging dan validasi antarmuka. Kombinasi keduanya memberikan dampak signifikan dalam meningkatkan efisiensi serta kualitas pengembangan aplikasi ini.*
 
 ---
 
