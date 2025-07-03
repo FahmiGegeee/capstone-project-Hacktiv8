@@ -29,7 +29,7 @@
 - Modal interaktif digunakan untuk input catatan dan konfirmasi penghapusan.
 ### 🏷️ Tag Filtering System
 - Tambahkan tag baru secara dinamis.
-- Klik pada tag di sidebar untuk memfilter catatan berdasarkan tag tersebut.
+- Klik pada tag lists di sidebar untuk memfilter catatan berdasarkan tag tersebut.
 - Sistem validasi untuk mencegah duplikasi tag.
 ### 🔎 Smart Search & Sorting
 - Fitur pencarian real-time berdasarkan judul, isi, atau tag catatan.
@@ -51,6 +51,10 @@
    - `/Logo/Logo_Lightmode.png`
    - `/Logo/Logo_Darkmode.png`
 4. Tidak ada dependensi eksternal tambahan atau server backend yang diperlukan.
+---
+Atau
+Langsung akses link berikut:
+[NoteApps](https://noteapps-organize-plans.netlify.app/)
 
 ---
 
