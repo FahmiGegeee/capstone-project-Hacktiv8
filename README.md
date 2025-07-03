@@ -98,20 +98,3 @@ Setelah pengguna menambahkan, mengedit, atau menghapus catatan/tag, tampilan UI 
 
 ## 📌 Status
 ✅ MVP Selesai – Semua fitur inti berjalan dengan baik secara lokal.
-
----
-
-## 📸 Preview
-### Light mode
-![NoteApps Screenshot (Lightmode)](assets/NoteApps-Screnshot-Lightmode.png)
-![Add Tag (Lightmode)](assets/AddTag-Lightmode.png)
-![Add Note (Lightmode)](assets/AddNote-Lightmode.png)
-![Edit Note (Lightmode)](assets/EditNote-Lightmode.png)
-![View Note (Lightmode)](assets/ViewNote-Lightmode.png)
-
-### Dark mode
-![NoteApps Screenshot (Darkmode)](assets/NoteApps-Screenshot-Darkmode.png)
-![Add Tag (Darkmode)](assets/AddTag-Darkmode.png)
-![Add Note (Darkmode)](assets/AddNote-Darkmode.png)
-![Edit Note (Darkmode)](assets/EditNote-Darkmode.png)
-![View Note (Darkmode)](assets/ViewNote-Darkmode.png)
