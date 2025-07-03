@@ -1,5 +1,3 @@
-# capstone-project-Hacktiv8
-
 # NoteApps - Organize All Your Plans
 
 ## 📋 Description
