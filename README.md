@@ -51,8 +51,8 @@
    - `/Logo/Logo_Lightmode.png`
    - `/Logo/Logo_Darkmode.png`
 4. Tidak ada dependensi eksternal tambahan atau server backend yang diperlukan.
----
-Atau langsung akses link berikut: [NoteApps](https://noteapps-organize-plans.netlify.app/)
+
+### 🔗 Atau langsung akses link berikut: [NoteApps](https://noteapps-organize-plans.netlify.app/)
 
 ---
 
