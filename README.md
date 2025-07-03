@@ -58,7 +58,7 @@
 
 ## 🤖 AI Support Explanation
 
-Dalam proses pengembangan proyek ini, AI digunakan secara aktif untuk:
+Dalam proses pengembangan proyek ini, AI digunakan secara efektif untuk:
 - **Merancang struktur modular HTML, CSS, dan JavaScript**.
 - **Membantu debug dan mengoptimalkan fungsionalitas JavaScript**, seperti dropdown interaktif, localStorage handling, dan modal interaksi.
 - **Menghasilkan solusi desain UX/UI**, seperti _dark mode switch_ dengan ikon dinamis dan sidebar yang tidak dapat di-scroll kecuali daftar tag.
