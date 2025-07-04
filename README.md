@@ -5,6 +5,13 @@
 
 ---
 
+## 🌐 Deployment link
+Proyek **NoteApps** telah berhasil di-*deploy* menggunakan platform [**Netlify**](https://www.netlify.com/).  
+Netlify dipilih karena kemudahan integrasi dengan repository GitHub, proses build otomatis, dan dukungan gratis untuk hosting statis.
+### 🔗 _NoteApps_ dapat diakses melalui link berikut: [_NoteApps_](https://noteapps-organize-plans.netlify.app/)
+
+---
+
 ## 🧰 Technologies Used
 ### 🔧 Bahasa Pemrograman dan Tools:
 - **HTML5**: Untuk struktur dasar tampilan halaman aplikasi.
@@ -51,13 +58,6 @@
    - `/Logo/Logo_Lightmode.png`
    - `/Logo/Logo_Darkmode.png`
 4. Tidak ada dependensi eksternal tambahan atau server backend yang diperlukan.
-
----
-
-## 🌐 Deployment
-Proyek **NoteApps** telah berhasil di-*deploy* menggunakan platform [**Netlify**](https://www.netlify.com/).  
-Netlify dipilih karena kemudahan integrasi dengan repository GitHub, proses build otomatis, dan dukungan gratis untuk hosting statis.
-### 🔗 _NoteApps_ dapat diakses melalui link berikut: [NoteApps](https://noteapps-organize-plans.netlify.app/)
 
 ---
 
