@@ -114,8 +114,6 @@ document.addEventListener('DOMContentLoaded', () => {
             return;
         }
 
-        // filteredNotes.sort((a, b) => b.timestamp - a.timestamp);
-
         filteredNotes.forEach(note => {
             const { time, date } = getFormattedDateTime(note.timestamp);
             const noteCard = document.createElement('div');
@@ -415,9 +413,8 @@ document.addEventListener('DOMContentLoaded', () => {
         if (event.target === tagModal) closeTagModal();
         if (event.target === deleteModal) closeDeleteModal();
         if (event.target === viewModal) closeViewModal();
-        if (event.target === alertModal) closeAlertModal(); // ⬅ tambahkan ini
+        if (event.target === alertModal) closeAlertModal();
     });
-
 
     noteForm.addEventListener('submit', handleNoteSubmit);
     addTagBtn.addEventListener('click', addTagPrompt);
